@@ -1,0 +1,16 @@
+data/raw/# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Local database
+credit_risk.db
+
+# Model artifacts
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
